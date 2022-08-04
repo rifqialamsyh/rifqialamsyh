@@ -2,7 +2,7 @@
 
 An Indonesia University of Education student who takes a computer engineering study program and has an interest in Front-End Developer.
 
-- 🌱 I’m currently learning about Front-End Web Dev
+- 🌱 I’m currently learning about Front-End Web Dev and Back-End
 - 📫 How to reach me: rifqialamsyh@gmail.com
 
 ### Reach me on
