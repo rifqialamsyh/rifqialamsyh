@@ -5,6 +5,13 @@ An Indonesia University of Education student who takes a computer engineering st
 - 🌱 I’m currently learning about Web Development
 - 📫 How to reach me: rifqialamsyh@gmail.com
 
+<p align="left">
+<a href="https://github.com/rifqialamsyh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqialamsyh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifqialamsyh&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Reach me on
 - <a href="linkedin.com/in/rifqi-alamsyah-a8a832201">LinkedIn</a>
 - rifqialamsyh@gmail.com
