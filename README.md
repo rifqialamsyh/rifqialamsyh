@@ -3,7 +3,6 @@
 An Universitas Pendidikan Indonesia student who takes a computer engineering study program and has an interest in Front-End Developer.
 
 - 🌱 I’m currently learning about Web Development
-- 📫 How to reach me: rifqialamsyh@gmail.com
 
 <p align="left">
 <a href="https://github.com/rifqialamsyh">
