@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Rifqi
 
-An Universitas Pendidikan Indonesia student who takes a computer engineering study program and has an interest in Front-End Developer.
+An Universitas Pendidikan Indonesia student who takes a computer engineering study program and has an interest in Software Development.
 
-- 🌱 I’m currently learning about Web Development
+- 🌱 I’m currently learning about Cloud Computing in Bangkit 2023
 
 <p align="left">
 <a href="https://github.com/rifqialamsyh">
