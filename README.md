@@ -12,7 +12,7 @@ An Universitas Pendidikan Indonesia student who takes a computer engineering stu
 </p>
 
 ### Reach me on
-- <a href="linkedin.com/in/rifqi-alamsyah-a8a832201">LinkedIn</a>
+- <a href="linkedin.com/in/rifqialamsyh">LinkedIn</a>
 - rifqialamsyh@gmail.com
 - <a href="https://twitter.com/rifqialamsyh">Twitter</a>
 
