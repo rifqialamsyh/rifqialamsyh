@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Rifqi
 
-An Universitas Pendidikan Indonesia student who takes a computer engineering study program and has an interest in Software Development.
+A graduate of Universitas Pendidikan Indonesia who studied computer engineering and has an interest in Software & Hardware Development.
 <!---
 - 🌱 I’m currently learning about Cloud Computing in Bangkit 2023
 --->
