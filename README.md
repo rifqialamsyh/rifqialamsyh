@@ -17,17 +17,29 @@ const rifqialamsyh = {
     }
 }
 ```
-<p align="left">
-<a href="https://github.com/rifqialamsyh">
-<!--   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqialamsyh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifqialamsyh&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <p align="center">
+        <a href="https://github.com/rifqialamsyh">
+          <!-- <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqialamsyh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+          <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rifqialamsyh&layout=compact&langs_count=8&theme=react"/>
+        </a>
+      </p>
+    </td>
+    <td>
+      <h3>Reach me on,</h3>
+      <ul>
+        <li><a href="https://www.linkedin.com/in/rifqialamsyh/">LinkedIn</a></li>
+        <li>rifqialamsyh@gmail.com</li>
+        <li><a href="https://twitter.com/rifqialamsyh">Twitter</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### Reach me on
-- <a href="https://www.linkedin.com/in/rifqialamsyh/">LinkedIn</a>
-- rifqialamsyh@gmail.com
-- <a href="https://twitter.com/rifqialamsyh">Twitter</a>
+
+
 
 <!---
 rifqialamsyh/rifqialamsyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
