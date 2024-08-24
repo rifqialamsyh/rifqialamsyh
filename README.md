@@ -1,9 +1,22 @@
 ### 👋 Hi, I’m Rifqi
-
-A graduate of Universitas Pendidikan Indonesia who studied computer engineering and has an interest in Software & Hardware Development.
-<!---
-- 🌱 I’m currently learning about Cloud Computing in Bangkit 2023
---->
+```javascript
+const rifqialamsyh = {
+    status: "as_always",
+    height: "170cm",
+    pronouns: "he/him",
+    background: "Engineering",
+    interests: ["Software Development", "Hardware Development"],
+    getProfile: function() {
+        return `
+        Status: ${this.status}
+        Height: ${this.height}
+        Pronouns: ${this.pronouns}
+        Background: ${this.background}
+        Interests: ${this.interests.join(", ")}
+        `;
+    }
+}
+```
 <p align="left">
 <a href="https://github.com/rifqialamsyh">
 <!--   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rifqialamsyh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
