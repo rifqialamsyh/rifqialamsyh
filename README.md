@@ -31,7 +31,7 @@ const rifqialamsyh = {
       <h3>Reach me on,</h3>
       <ul>
         <li><a href="https://www.linkedin.com/in/rifqialamsyh/">LinkedIn</a></li>
-        <li>rifqialamsyh@gmail.com</li>
+        <li><a href="mailto:rifqialamsyh@gmail.com">Email</a></li>
         <li><a href="https://twitter.com/rifqialamsyh">Twitter</a></li>
       </ul>
     </td>
