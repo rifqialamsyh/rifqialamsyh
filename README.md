@@ -6,15 +6,7 @@ const rifqialamsyh = {
     pronouns: "he/him",
     background: "Engineering",
     interests: ["Software Development", "Hardware Development"],
-    getProfile: function() {
-        return `
-        Status: ${this.status}
-        Height: ${this.height}
-        Pronouns: ${this.pronouns}
-        Background: ${this.background}
-        Interests: ${this.interests.join(", ")}
-        `;
-    }
+    
 }
 ```
 <table align="center">
@@ -38,10 +30,17 @@ const rifqialamsyh = {
   </tr>
 </table>
 
-
-
-
 <!---
+getProfile: function() {
+        return `
+        Status: ${this.status}
+        Height: ${this.height}
+        Pronouns: ${this.pronouns}
+        Background: ${this.background}
+        Interests: ${this.interests.join(", ")}
+        `;
+    }
+
 rifqialamsyh/rifqialamsyh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
