@@ -6,7 +6,6 @@ const rifqialamsyh = {
     pronouns: "he/him",
     background: "Engineering",
     interests: ["Software Development", "Hardware Development"],
-    
 }
 ```
 <table align="center">
