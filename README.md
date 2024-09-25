@@ -1,9 +1,6 @@
 ### 👋 Hi, I’m Rifqi
 ```javascript
 const rifqialamsyh = {
-    status: "as_always",
-    height: "170cm",
-    pronouns: "he/him",
     background: "Engineering",
     interests: ["Software Development", "Hardware Development"],
 }
